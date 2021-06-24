@@ -1,3 +1,7 @@
 My CICD pipeline
+<<<<<<< HEAD
 
 My second commit in pipeline
+=======
+Second commit in pipeline
+>>>>>>> 97d1540d3957c1d44e01567cdab7aa8dde4ce9ae
